@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Doğukan Kumru</h1>
+![Header](./header.png)
 <h3 align="center">Full Stack Developer speciliazing in Javascript and Java</h3>
 
-- 📫 How to reach me **kumrudogukan5@gmail.com**
+📫 How to reach me **kumrudogukan5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
