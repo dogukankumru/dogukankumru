@@ -1,4 +1,3 @@
-![Header](./header.png)
 <h3 align="center">Full Stack Developer speciliazing in Javascript and Java</h3>
 
 📫 How to reach me **kumrudogukan5@gmail.com**
