@@ -18,7 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukankumru&show_icons=true&locale=en&layout=compact" alt="dogukankumru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukankumru&show_icons=true&locale=en" alt="dogukankumru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukankumru&" alt="dogukankumru" /></p>
-
